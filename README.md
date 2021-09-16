@@ -1,7 +1,7 @@
 <!-- Insert Images
 ![Inset Image Name and it will auto place in readme file](Insert the github link starting with https://github...) -->
 
-# Project Title
+# Portfolio with React App
 
 One Paragraph of the project description
 
@@ -21,21 +21,17 @@ Requirements for the software and other tools to build, test and push
 - [Example 1](https://www.example.com)
 - [Example 2](https://www.example.com)
 
-### Installing
+### Install
 
-A step by step series of examples that tell you how to get a development
-environment running
+You will need to run the following -
 
-Say what the step will be
+    npm start
 
-    Give the example
+then run
 
-And repeat
+    npm test
 
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
+npm build
 
 ## Running the tests
 
